@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntalej67
-- 👀 I’m interested in ... Women 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning ... Cyber Security
 
 
